@@ -1,5 +1,5 @@
 # ruleflow
-RuleFlow: Agentic Compilation of Medical Insurance Policies into Executable Auditing Rules
+RuleFlow: An Agentic Framework for Compiling Medical Insurance Policies into Executable Audit Programs
 
 ## Demo Video
 
