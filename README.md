@@ -7,7 +7,8 @@ RuleFlow: An Agentic System for Medical Insurance Policy Compilation Supporting 
 https://ruleflow.ecustnlplab.com/
 
 ## Framework
-[tech.pdf](https://github.com/user-attachments/files/29901571/tech.pdf)
+<img width="755" height="425" alt="image" src="https://github.com/user-attachments/assets/2ceabd04-8b5c-4cb1-848c-b8dd60220c4f" />
+
 
 
 ## Screenshots
