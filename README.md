@@ -1,6 +1,7 @@
 # RuleFlow: An Agentic System for Medical Insurance Policy Compilation Supporting Semantic Decomposition and Tool-grounded Code Generation
 ## Demo Video
-ruleflow_demo.mp4
+ruleflow_demo.mp4  
+https://youtu.be/8_50fDfx9nE
 
 ## Online Demo
 https://ruleflow.ecustnlplab.com/
